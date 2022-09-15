@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BedOfRoses
-- 👀 I’m interested in ... CS:GO
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... CS:GO and programming
+- 🌱 I’m currently learning ... C++(UnrealEngine), OpenGL, C#(Unity) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You don't.
 
